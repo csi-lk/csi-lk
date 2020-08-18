@@ -1,10 +1,10 @@
 ### Hi, my name is Callum 🧔
 
-I have been a Front End Developer for 10+ years now run my own consultancy [⠺⠑⠃webanytime](http://webanyti.me) in London.
+I have been a Front End Developer for 10+ years now and run my own consultancy [⠺⠑⠃webanytime](http://webanyti.me) in Melbourne, Australia 🇦🇺.
 
-I occasionally write articles and snippets on [my personal website](https://csi.lk)
+I occasionally write articles and snippets on [my personal website, csi.lk](https://csi.lk).
 
-I also have a lot of code open sourced below, check it out and let me know what you think
+I also have a lot of code and presentations open sourced below, check it out and let me know what you think.
 
 <!--
 **csi-lk/csi-lk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
