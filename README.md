@@ -1,7 +1,9 @@
 ### Hi, my name is Callum 🧔
 
 I have been a Front End Developer for 10+ years now run my own consultancy [⠺⠑⠃webanytime](http://webanyti.me) in London.
+
 I occasionally write articles and snippets on [my personal website](https://csi.lk)
+
 I also have a lot of code open sourced below, check it out and let me know what you think
 
 <!--
