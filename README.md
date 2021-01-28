@@ -1,6 +1,6 @@
 ### Hi, my name is Callum 🧔
 
-I have been a Front End Developer for 10+ years now and run my own consultancy [⠺⠑⠃webanytime](http://webanyti.me) in Melbourne, Australia 🇦🇺.
+I have been a Front End Developer for 10+ years now and run my own consultancy [🐓 grilks](http://grilks.com) in Melbourne, Australia 🇦🇺.
 
 I occasionally write articles and snippets on [my personal website, csi.lk](https://csi.lk).
 
